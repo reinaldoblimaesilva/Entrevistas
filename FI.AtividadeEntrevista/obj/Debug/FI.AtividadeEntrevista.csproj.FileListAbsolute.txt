@@ -16,3 +16,9 @@ C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.
 C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
 C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
 C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\reinaldolima\Source\Repos\FI.WebAtividadeEntrevista2\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\reinaldolima\Source\Repos\FI.WebAtividadeEntrevista2\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\reinaldolima\Source\Repos\FI.WebAtividadeEntrevista2\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\reinaldolima\Source\Repos\FI.WebAtividadeEntrevista2\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\reinaldolima\Source\Repos\FI.WebAtividadeEntrevista2\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\reinaldolima\Source\Repos\FI.WebAtividadeEntrevista2\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb

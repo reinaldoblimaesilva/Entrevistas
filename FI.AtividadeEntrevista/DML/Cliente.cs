@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FI.AtividadeEntrevista.BLL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,7 +16,7 @@ namespace FI.AtividadeEntrevista.DML
         /// Id
         /// </summary>
         public long Id { get; set; }
-        
+
         /// <summary>
         /// CEP
         /// </summary>
@@ -59,6 +60,19 @@ namespace FI.AtividadeEntrevista.DML
         /// <summary>
         /// Telefone
         /// </summary>
-        public string Telefone { get; set; }        
-    }    
+        public string Telefone { get; set; }
+
+        /// <summary>
+        /// CPF
+        /// </summary>
+        public string CPF { get; set; }
+
+        /// <summary>
+        /// Lista de Beneficiarios por cliente
+        /// </summary>
+        public List<Beneficiario> Beneficiarios { get; set; }
+
+
+
+    }   
 }
